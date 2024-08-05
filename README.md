@@ -1,2 +1,2 @@
-# Credit_cCrd_Financial_Dashboard
+# Credit_Card_Financial_Dashboard
 Power BI Dasboard
